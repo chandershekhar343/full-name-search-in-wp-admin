@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: User First Name / User First Name / Full Name Search In WP-admin
+Plugin Name: User First Name / Full Name Search In WP-admin
 Plugin URI: http://www.boldertechno.com/products/search-by-full-name-in-wordpress-admin/
 Description:  Makes you search any user by typing User Name or Full Name full name.
 Version: 1
