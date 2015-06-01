@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Full Name Search In WP-admin
+Plugin Name: User First Name / User First Name / Full Name Search In WP-admin
 Plugin URI: http://www.boldertechno.com/products/search-by-full-name-in-wordpress-admin/
-Description:  Makes you search any user by typing full name.
+Description:  Makes you search any user by typing User Name or Full Name full name.
 Version: 1
 Author: Rajneesh Saini
 Author URI: http://www.boldertechno.com/
@@ -13,7 +13,7 @@ Author URI: http://www.boldertechno.com/
 global $wp_version;
 
 if(version_compare($wp_version,"3.5","<")) {
-	exit(__('Full Name Search In WP-admin requires WordPress version 3.5 or higher. 
+	exit(__('User First Name / Full Name Search In WP-admin requires WordPress version 3.5 or higher. 
 				<a href="http://codex.wordpress.org/Upgrading_Wordpress">Please update!</a>', 'fullname-user-search-in-WP-admin'));
 }
 
