@@ -3,7 +3,7 @@
 Plugin Name: User First Name / Full Name Search In WP-admin
 Plugin URI: http://www.boldertechno.com/products/search-by-full-name-in-wordpress-admin/
 Description:  Makes you search any user by typing User Name or Full Name.
-Version: 1
+Version: 1.1
 Author: Rajneesh Saini
 Author URI: http://www.boldertechno.com/
 */

@@ -42,4 +42,7 @@ No Screenshot present
 
 == Changelog ==
 
+= 1.1 =
+* A title name and file name changed
+
 = 1.0 =
